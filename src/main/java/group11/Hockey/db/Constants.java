@@ -1,0 +1,37 @@
+package group11.Hockey.db;
+
+public enum Constants {
+
+	leagueName,
+	leagueStartDate,
+	conferenceName,
+	divisionName,
+	teamName,
+	coachName,
+	coachChecking,
+	coachSaving,
+	coachShooting,
+	coachSkating,
+	generalMangerName,
+	generalMangerPersonality,
+	playerName,
+	playerPosition,
+	age,
+	skating,
+	shooting,
+	checking,
+	saving,
+	captain,
+	isFreeAgent,
+	retired,
+	averageRetirementAge,
+	maximumAge,
+	randomWinChance,
+	randomInjuryChance,
+	injuryDaysLow,
+	injuryDaysHigh,
+	daysUntilStatIncreaseCheck,
+	lossPoint,
+	randomTradeOfferChance,
+	maxPlayersPerTrade;
+}
